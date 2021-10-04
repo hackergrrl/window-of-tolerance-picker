@@ -1,0 +1,17 @@
+{
+  "name": "window-of-tolerance-picker",
+  "description": "picker for where you are at on the window of tolerance",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "dependencies": {
+    "getport": "^0.1.0",
+    "opn": "^6.0.0",
+    "shoe": "0.0.15"
+  },
+  "devDependencies": {
+    "tap": "^5.1.1"
+  }
+}
