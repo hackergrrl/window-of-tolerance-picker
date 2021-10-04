@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "main": "index.js",
   "bin": {
-    "wot-picker": "node main.js"
+    "wot-picker": "main.js"
   },
   "dependencies": {
     "getport": "^0.1.0",

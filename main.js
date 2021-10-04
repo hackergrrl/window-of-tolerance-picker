@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const picker = require('.')
 
 picker((err, value) => {
