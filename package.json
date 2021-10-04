@@ -1,7 +1,7 @@
 {
   "name": "window-of-tolerance-picker",
   "description": "picker for where you are at on the window of tolerance",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "index.js",
   "bin": {
     "wot-picker": "main.js"
